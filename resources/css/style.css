@@ -1,29 +1,32 @@
-h1 {
+*{
   font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 a {
   color: aquamarine;
   font-size: 16px;
-  font-family: Verdana;
-  text-align: center;
+
 }
 body {
   background-color: black;
 }
-.cellphone{
-  align-items: center;
-}
-.subtext 1{
-  font-family: Verdana;
+.h2 {
   font-size: 42px;
   font-weight: 300;
 }
-.subtext 2{
-  font-family: Verdana,
-  color: gray;
+h3 {
   font-size: 21px;
+  color: gray;
+}
+
+.p {
+  font-size: 21px:
+  color: gray;
+  text-align: right;
 }
