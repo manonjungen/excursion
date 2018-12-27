@@ -11,3 +11,19 @@ a {
   font-family: Verdana;
   text-align: center;
 }
+body {
+  background-color: black;
+}
+.cellphone{
+  align-items: center;
+}
+.subtext 1{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+.subtext 2{
+  font-family: Verdana,
+  color: gray;
+  font-size: 21px;
+}
